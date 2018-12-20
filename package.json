@@ -1,6 +1,6 @@
 {
-  "name": "react-table",
-  "version": "6.8.7",
+  "name": "react-table-ynfinite",
+  "version": "1.0.0",
   "description": "A fast, lightweight, opinionated table and datagrid built on React",
   "license": "MIT",
   "homepage": "https://github.com/react-tools/react-table#readme",
